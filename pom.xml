@@ -10,7 +10,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>dna.js</artifactId>
-    <version>1.3.7</version>
+    <version>1.3.8-SNAPSHOT</version>
     <name>dna.js</name>
     <description>A WebJar for the dna.js project</description>
     <url>http://webjars.org</url>
@@ -51,7 +51,7 @@
         <url>http://github.com/webjars/dna.js</url>
         <connection>scm:git:https://github.com/webjars/dna.js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/dna.js.git</developerConnection>
-        <tag>dna.js-1.3.7</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
